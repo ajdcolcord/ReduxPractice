@@ -3,10 +3,10 @@
  */
 export default function() {
     return [
-        {title: "My first book"},
-        {title: "My second book"},
-        {title: "My third"},
-        {title: "My fourth"}
+        {title: "My first book", pages: 101},
+        {title: "My second book", pages: 10},
+        {title: "My third", pages: 1031},
+        {title: "My fourth", pages: 332}
 
     ]
 }
